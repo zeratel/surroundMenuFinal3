@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_touch"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+   <!--  <com.example.slcanimation.Circle
+        android:id="@+id/circle"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        /> -->
+
+    <!-- <com.cpbao.view.SurroundMenu
+        android:id="@+id/surround_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" /> -->
+        <!-- <EditText 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/et_1"
+            /> -->
+
+</RelativeLayout>
