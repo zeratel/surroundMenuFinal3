@@ -14,6 +14,11 @@ import android.widget.RelativeLayout;
 import com.cpbao.view.Circle.UpListener;
 import com.example.surroundmenu.R;
 
+/**
+ * 
+ * @author LHF
+ *
+ */
 public class MainActivity extends Activity {
 
 	// private Circle circle;
